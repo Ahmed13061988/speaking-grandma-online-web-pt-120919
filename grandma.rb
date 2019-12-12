@@ -1,5 +1,5 @@
 def speak_with_grandma(phrase ="I LOVE YOU GRANDMA")
-if phrase.downcase
+if phrase !== "I LOVE YOU GRANDMA"
   return "HUH?!SPEAK UP SONNY!"
 elsif phrase.upcase
 return "NO,NOT SINCE 1938!"
