@@ -1,5 +1,7 @@
 def speak_with_grandma ("how are you")
-if 
+if "how are you ".downcase
+  puts "HUH?!SPEAK UP SONNY!"
+elsif puts 
 
 
 
